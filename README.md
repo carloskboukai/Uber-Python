@@ -21,3 +21,8 @@ My task is to perform an initial  exploratory analysis of some of their data in 
 3. Scripts - this folder contains all the notebooks, including the codes necessary to assess, clean and organise, wrangle and analysie the data. Also includes the coding necessary to create the visualisations for the final report.
 4. Visualisations - this folder contains all the visualisations obtained in the 'scripts' folder, which were included in the final report. It is divided between graphic elements and maps.
 5. Sent to client (report) - this folder includes the excel file/report which was sent to the client/stakeholder. The file also contains a Tableau link for a dashboard presentation.
+
+## Tableau presentation
+> Link: https://public.tableau.com/app/profile/carlos.khalili/viz/Uberstory-Carlos/UberStory?publish=yes
+> This storyboard doesn’t contain every step I took as part of the analysis; it contains only those relevant to the final results.
+
